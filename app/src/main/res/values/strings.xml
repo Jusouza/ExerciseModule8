@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExerciseModule8</string>
+    <string name="btn_text">Trocar imagem</string>
+    <string name="edtxt_hint">Escreva seu nome aqui</string>
+</resources>
